@@ -2,7 +2,7 @@
 This is simple calculator, done with NetBeans IDE - GUI.
 
 
-[donload jar](https://github.com/livnoni/JavaSimpleCalculatorGUI/blob/master/dist/CalculatorGUI.jar)
+[download jar](https://github.com/livnoni/JavaSimpleCalculatorGUI/blob/master/dist/CalculatorGUI.jar)
 
 
 
